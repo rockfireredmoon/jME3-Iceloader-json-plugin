@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
+<library version="1.0">
+    <name>IceloaderJson</name>
+    <type>j2se</type>
+    <localizing-bundle>icemoon.iceloader.json.Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst://icemoon.iceloader/libs/IceloaderJson-classes.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+        <resource>jar:nbinst://icemoon.iceloader/sources/IceloaderJson-src.zip!/</resource>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+        <resource>jar:nbinst://icemoon.iceloader/docs/IceloaderJson-javadoc.zip!/</resource>
+    </volume>
+</library>
